@@ -22,7 +22,7 @@ const About = () => {
         </p>
         <p className="a-des">
           Currently, I am actively developing my project, Detecting Real and AI
-          Generated Snthetic Images. My projects range from Rice Plant Disease
+          Generated Synthetic Images. My projects range from Rice Plant Disease
           Detection, where I applied ResNet for precise disease identification,
           to Armed Against Violence, a YOLOv7-based weapon detection system.
           I've also developed a Product Review and Rating Platform using the
